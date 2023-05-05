@@ -1324,6 +1324,11 @@ section.section_state .row .item:nth-child(4) {
     width: 600px;
   }
 
+  header .header__item {
+    height: 617px;
+  }
+
+
   section.first_section .main-title {
     display: flex;
     width: 124px;
@@ -1434,6 +1439,11 @@ section.section_state .row .item:nth-child(4) {
     width: 333px;
   }
 
+  header .header__center img.header_media_title {
+    display: block;
+  }
+
+
   header {
     overflow: hidden;
   }
@@ -1506,12 +1516,13 @@ section.section_state .row .item:nth-child(4) {
   }
 
   header .header__item {
-    height: 550px;
+    height: 600px;
   }
 
   main {
     padding-top: 0;
     padding-bottom: 130px;
+    margin-top: 20px;
   }
 
   main .container .main-title {
